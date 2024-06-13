@@ -1,4 +1,11 @@
 # mobileplatform10
+저희 시연영상은 파일크기를 고려해서 안전하게 유튜브에 업로드했습니다.
+
+https://youtu.be/S-rTJSRNQ_Q
+
+
+
+
 
 A new Flutter project.
 
